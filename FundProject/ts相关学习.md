@@ -1,4 +1,4 @@
-	[ts学习](https://juejin.im/post/5ee00fca51882536846781ee)
+[ts学习](https://juejin.im/post/5ee00fca51882536846781ee)
 
 1. ts枚举的反向映射只支持数字枚举，字符串枚举不支持  [**链接**](https://juejin.im/post/5edd8ad8f265da76fc45362c#heading-8)
 
